@@ -1,0 +1,44 @@
+$textCenter :center; 
+$fontSizeLinks :24px; 
+h1{
+    text-align: $textCenter;
+}
+
+.contenue{
+    display: block;
+    border-style: solid;
+    margin-top: 40px;
+    padding: 20px;
+    background-color: blanchedalmond;
+}
+
+ul{
+    display: flex;
+    margin-left: 55%;
+}
+
+a{
+    text-align: $textCenter;
+    padding: 10px;
+    margin-left: 20px;
+    color: grey;
+}
+
+.fa-enveloppe{
+    font-size: $fontSizeLinks;
+}
+
+.fa-facebook-f{
+    font-size: $fontSizeLinks;
+}
+
+.fa-twitter{
+    font-size: $fontSizeLinks;
+}
+
+.fa-instagram{
+    font-size: $fontSizeLinks;
+}
+
+
+

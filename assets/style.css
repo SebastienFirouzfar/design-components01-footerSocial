@@ -1,0 +1,41 @@
+h1 {
+  text-align: center;
+}
+
+.contenue {
+  display: block;
+  border-style: solid;
+  margin-top: 40px;
+  padding: 20px;
+  background-color: blanchedalmond;
+}
+
+ul {
+  display: flex;
+  margin-left: 55%;
+}
+
+a {
+  text-align: center;
+  padding: 10px;
+  margin-left: 20px;
+  color: grey;
+}
+
+.fa-enveloppe {
+  font-size: 24px;
+}
+
+.fa-facebook-f {
+  font-size: 24px;
+}
+
+.fa-twitter {
+  font-size: 24px;
+}
+
+.fa-instagram {
+  font-size: 24px;
+}
+
+/*# sourceMappingURL=style.css.map */
